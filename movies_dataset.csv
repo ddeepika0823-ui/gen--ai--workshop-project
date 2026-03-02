@@ -1,0 +1,21 @@
+movie_id,title,genre,year,rating,director,language,duration_mins,box_office_million
+1,The Dark Knight,Action,2008,9.0,Christopher Nolan,English,152,1005
+2,Inception,Sci-Fi,2010,8.8,Christopher Nolan,English,148,836
+3,Interstellar,Sci-Fi,2014,8.6,Christopher Nolan,English,169,701
+4,Avengers Endgame,Action,2019,8.4,Russo Brothers,English,181,2798
+5,Titanic,Romance,1997,7.9,James Cameron,English,194,2201
+6,The Lion King,Animation,1994,8.5,Roger Allers,English,88,968
+7,Joker,Drama,2019,8.4,Todd Phillips,English,122,1079
+8,Bahubali 2,Action,2017,8.2,SS Rajamouli,Telugu,167,1810
+9,RRR,Action,2022,7.9,SS Rajamouli,Telugu,187,1200
+10,3 Idiots,Comedy,2009,8.4,Rajkumar Hirani,Hindi,170,202
+11,Dangal,Drama,2016,8.3,Nitesh Tiwari,Hindi,161,330
+12,KGF Chapter 2,Action,2022,8.2,Prashanth Neel,Kannada,168,1200
+13,Pushpa,Action,2021,7.6,Sukumar,Telugu,179,365
+14,Spider-Man No Way Home,Action,2021,8.3,Jon Watts,English,148,1901
+15,Avatar,Sci-Fi,2009,7.9,James Cameron,English,162,2923
+16,Forrest Gump,Drama,1994,8.8,Robert Zemeckis,English,142,678
+17,The Godfather,Crime,1972,9.2,Francis Ford Coppola,English,175,246
+18,Sholay,Action,1975,8.2,Ramesh Sippy,Hindi,204,30
+19,Dilwale Dulhania Le Jayenge,Romance,1995,8.1,Aditya Chopra,Hindi,189,102
+20,Kabir Singh,Romance,2019,7.1,Sandeep Reddy Vanga,Hindi,173,278
